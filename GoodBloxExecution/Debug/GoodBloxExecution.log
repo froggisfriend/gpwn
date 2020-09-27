@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\machport\source\repos\GoodBloxExecution\GoodBloxExecution\dllmain.cpp(220,13): warning C4102: 'InLoadOrderModuleList': unreferenced label
+C:\Users\machport\source\repos\GoodBloxExecution\GoodBloxExecution\dllmain.cpp(196): warning C4715: 'input': not all control paths return a value
+  GoodBloxExecution.vcxproj -> C:\Users\machport\source\repos\GoodBloxExecution\Debug\GoodBloxExecution.dll
